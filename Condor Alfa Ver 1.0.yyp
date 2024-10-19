@@ -35,6 +35,7 @@
   "name":"Condor Alfa Ver 1.0",
   "resources":[
     {"id":{"name":"o_enemigos","path":"objects/o_enemigos/o_enemigos.yy",},},
+    {"id":{"name":"o_game_over","path":"objects/o_game_over/o_game_over.yy",},},
     {"id":{"name":"o_generador","path":"objects/o_generador/o_generador.yy",},},
     {"id":{"name":"o_lazer","path":"objects/o_lazer/o_lazer.yy",},},
     {"id":{"name":"o_player","path":"objects/o_player/o_player.yy",},},
