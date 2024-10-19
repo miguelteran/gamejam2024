@@ -38,6 +38,7 @@
     {"id":{"name":"o_generador","path":"objects/o_generador/o_generador.yy",},},
     {"id":{"name":"o_lazer","path":"objects/o_lazer/o_lazer.yy",},},
     {"id":{"name":"o_player","path":"objects/o_player/o_player.yy",},},
+    {"id":{"name":"o_score","path":"objects/o_score/o_score.yy",},},
     {"id":{"name":"o_title","path":"objects/o_title/o_title.yy",},},
     {"id":{"name":"o_wall","path":"objects/o_wall/o_wall.yy",},},
     {"id":{"name":"GameOverRoom","path":"rooms/GameOverRoom/GameOverRoom.yy",},},

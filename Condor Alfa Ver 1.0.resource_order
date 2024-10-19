@@ -20,6 +20,7 @@
     {"name":"o_enemigos","order":3,"path":"objects/o_enemigos/o_enemigos.yy",},
     {"name":"o_generador","order":4,"path":"objects/o_generador/o_generador.yy",},
     {"name":"o_lazer","order":2,"path":"objects/o_lazer/o_lazer.yy",},
+    {"name":"o_score","order":6,"path":"objects/o_score/o_score.yy",},
     {"name":"o_title","order":5,"path":"objects/o_title/o_title.yy",},
     {"name":"o_wall","order":1,"path":"objects/o_wall/o_wall.yy",},
     {"name":"GameOverRoom","order":1,"path":"rooms/GameOverRoom/GameOverRoom.yy",},

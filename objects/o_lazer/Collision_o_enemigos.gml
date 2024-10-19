@@ -4,4 +4,6 @@ with (other)
 	image_index=1
 }
 
+score+=1
+
 instance_destroy()
