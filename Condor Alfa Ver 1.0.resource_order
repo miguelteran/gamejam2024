@@ -17,10 +17,11 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
-    {"name":"o_enemigos","order":4,"path":"objects/o_enemigos/o_enemigos.yy",},
-    {"name":"o_generador","order":5,"path":"objects/o_generador/o_generador.yy",},
-    {"name":"o_lazer","order":3,"path":"objects/o_lazer/o_lazer.yy",},
-    {"name":"o_wall","order":2,"path":"objects/o_wall/o_wall.yy",},
+    {"name":"o_enemigos","order":3,"path":"objects/o_enemigos/o_enemigos.yy",},
+    {"name":"o_generador","order":4,"path":"objects/o_generador/o_generador.yy",},
+    {"name":"o_lazer","order":2,"path":"objects/o_lazer/o_lazer.yy",},
+    {"name":"o_title","order":5,"path":"objects/o_title/o_title.yy",},
+    {"name":"o_wall","order":1,"path":"objects/o_wall/o_wall.yy",},
     {"name":"GameOverRoom","order":1,"path":"rooms/GameOverRoom/GameOverRoom.yy",},
     {"name":"StartMenu","order":2,"path":"rooms/StartMenu/StartMenu.yy",},
     {"name":"BG1","order":4,"path":"sprites/BG1/BG1.yy",},
@@ -29,6 +30,7 @@
     {"name":"s_lazer","order":3,"path":"sprites/s_lazer/s_lazer.yy",},
     {"name":"s_spawner","order":7,"path":"sprites/s_spawner/s_spawner.yy",},
     {"name":"s_sprite_gun","order":1,"path":"sprites/s_sprite_gun/s_sprite_gun.yy",},
+    {"name":"s_title","order":8,"path":"sprites/s_title/s_title.yy",},
     {"name":"sprite_wall","order":2,"path":"sprites/sprite_wall/sprite_wall.yy",},
   ],
 }
