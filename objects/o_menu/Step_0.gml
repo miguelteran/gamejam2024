@@ -16,6 +16,7 @@ if (select) {
 	switch (index) {
 		case 0:
 			room_goto_previous();
+			score=0;
 			break;
 		case 1:
 			game_end(0);
