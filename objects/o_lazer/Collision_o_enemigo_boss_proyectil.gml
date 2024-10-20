@@ -1,10 +1,10 @@
 with (other)
 {
-	hp --;
+	hpP --;
 	image_index=1
 	
-	if (hp == 0) {
-		score+=1
+	if (hpP == 0) {
+		score += 1
 	}
 }
 

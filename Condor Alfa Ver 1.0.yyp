@@ -35,6 +35,8 @@
   "name":"Condor Alfa Ver 1.0",
   "resources":[
     {"id":{"name":"f_menu","path":"fonts/f_menu/f_menu.yy",},},
+    {"id":{"name":"o_enemigo_boss_proyectil","path":"objects/o_enemigo_boss_proyectil/o_enemigo_boss_proyectil.yy",},},
+    {"id":{"name":"o_enemigo_boss","path":"objects/o_enemigo_boss/o_enemigo_boss.yy",},},
     {"id":{"name":"o_enemigo_lazer","path":"objects/o_enemigo_lazer/o_enemigo_lazer.yy",},},
     {"id":{"name":"o_enemigo2","path":"objects/o_enemigo2/o_enemigo2.yy",},},
     {"id":{"name":"o_enemigo3","path":"objects/o_enemigo3/o_enemigo3.yy",},},
@@ -50,9 +52,11 @@
     {"id":{"name":"o_wall","path":"objects/o_wall/o_wall.yy",},},
     {"id":{"name":"GameOverRoom","path":"rooms/GameOverRoom/GameOverRoom.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"RoomBoss","path":"rooms/RoomBoss/RoomBoss.yy",},},
     {"id":{"name":"StartMenu","path":"rooms/StartMenu/StartMenu.yy",},},
     {"id":{"name":"BG1","path":"sprites/BG1/BG1.yy",},},
     {"id":{"name":"BG2","path":"sprites/BG2/BG2.yy",},},
+    {"id":{"name":"s_enemigo_boss","path":"sprites/s_enemigo_boss/s_enemigo_boss.yy",},},
     {"id":{"name":"s_enemigo_lazer","path":"sprites/s_enemigo_lazer/s_enemigo_lazer.yy",},},
     {"id":{"name":"s_enemigo1","path":"sprites/s_enemigo1/s_enemigo1.yy",},},
     {"id":{"name":"s_enemigo2","path":"sprites/s_enemigo2/s_enemigo2.yy",},},
@@ -73,6 +77,7 @@
     {"roomId":{"name":"StartMenu","path":"rooms/StartMenu/StartMenu.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"GameOverRoom","path":"rooms/GameOverRoom/GameOverRoom.yy",},},
+    {"roomId":{"name":"RoomBoss","path":"rooms/RoomBoss/RoomBoss.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

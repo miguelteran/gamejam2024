@@ -1,4 +1,3 @@
-hp=2
-
 direction = -180
-speed = 7
+speed = 5
+hpP = 1

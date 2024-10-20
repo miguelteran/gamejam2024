@@ -20,5 +20,9 @@ if (keyboard_check(vk_space) && time_until_next_shot <= 0) {
     instance_create_layer(x, y, layer, o_lazer);
     time_until_next_shot = shoot_delay;
 }
-
+if (currentHealth == 2) {
+	o_health.sprite_index = s_health_mid;	
+} else if (currentHealth == 1) {
+	o_health.sprite_index = s_health_low;
+}
 if (currentHealth <= 0) room_goto(GameOverRoom);
