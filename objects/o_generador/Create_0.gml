@@ -1,6 +1,7 @@
 // Crear el objeto invisible en el juego
 // En el evento Create:
-enemy_spawn_rate = 60; 
+time = 100;
+enemy_spawn_rate = 300; 
 alarm[0] = enemy_spawn_rate;
 
 width = sprite_width;  // Ancho del sprite del generador

@@ -3,6 +3,7 @@
 random_y = y - height / 2 + irandom(height); // Generar dentro del alto del sprite
 
 var enemy_type = enemy_types[irandom_range(0, array_length_1d(enemy_types) - 1)];
-
+time = max(time -1,10)
 instance_create_layer(x, random_y, layer, enemy_type); // Crear el enemigo
-alarm[0] = enemy_spawn_rate; // Reiniciar temporizador
+
+alarm[0] = time; // Reiniciar temporizador
