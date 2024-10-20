@@ -1,4 +1,4 @@
-hp=50
+hp=25
 shoot_delayEB=160;
 time_until_next_shotEB = 0
 

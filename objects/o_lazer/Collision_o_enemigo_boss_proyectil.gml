@@ -4,8 +4,9 @@ with (other)
 	image_index=1
 	
 	if (hpP == 0) {
-		global.score += 1
+		global.score+=10
 	}
 }
+
 
 instance_destroy()

@@ -10,7 +10,7 @@ if (time_until_next_shotEB <= 0) {
 }
 
 if(hp <= 0) {
-	global.player_x = s_player.x;
-	global.player_y = s_player.y;
+	global.player_x = o_player.x;
+	global.player_y = o_player.y;
 	room_goto(Room1)
 }
