@@ -16,7 +16,9 @@ if (select) {
 	switch (index) {
 		case 0:
 			room_goto_previous();
-			score=0;
+			global.player_x = room_width/4;
+			global.player_y = 3*room_height/4
+			global.score = 0;
 			break;
 		case 1:
 			game_end(0);

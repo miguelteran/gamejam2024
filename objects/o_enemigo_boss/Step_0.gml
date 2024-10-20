@@ -9,4 +9,8 @@ if (time_until_next_shotEB <= 0) {
     time_until_next_shotEB = shoot_delayEB;
 }
 
-if(health <= 0) room_goto(Room1)
+if(hp <= 0) {
+	global.player_x = s_player.x;
+	global.player_y = s_player.y;
+	room_goto(Room1)
+}

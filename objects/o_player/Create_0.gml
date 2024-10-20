@@ -1,7 +1,9 @@
 shoot_delay=20;
 time_until_next_shot = 0
-maxHealth = 100;
+maxHealth = 3;
 player_speed = 8;
 player_speed_back = 4;
+x = global.player_x;
+y = global.player_y;
 
 currentHealth = maxHealth;
