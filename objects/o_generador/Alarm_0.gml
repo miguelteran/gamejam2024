@@ -1,7 +1,6 @@
 // En el evento Alarm[0]:
 //var random_x = x - width / 2 + irandom(width); // Generar dentro del ancho del sprite
-// random_y = y - height / 2 + irandom(height); // Generar dentro del alto del sprite
-random_y = irandom_range(min_y, max_y)
+random_y = y - height / 2 + irandom(height); // Generar dentro del alto del sprite
 
 var enemy_type = enemy_types[irandom_range(0, array_length_1d(enemy_types) - 1)];
 
